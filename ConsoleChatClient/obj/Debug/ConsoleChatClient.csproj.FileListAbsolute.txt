@@ -1,0 +1,14 @@
+A:\Projects\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe.config
+A:\Projects\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe
+A:\Projects\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.pdb
+A:\Projects\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.csproj.CoreCompileInputs.cache
+A:\Projects\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.exe
+A:\Projects\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.pdb
+A:\Projects\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.csprojResolveAssemblyReference.cache
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe.config
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.exe
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\bin\Debug\ConsoleChatClient.pdb
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.csprojAssemblyReference.cache
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.csproj.CoreCompileInputs.cache
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.exe
+C:\Хранилище\Проекты\C#\ConsoleChatClient\ConsoleChatClient\obj\Debug\ConsoleChatClient.pdb
